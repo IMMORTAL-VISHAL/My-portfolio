@@ -26,7 +26,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3, duration: 0.5 }}
           >
-            Full Stack Developer <br/> AI & ML Enthusiast <br/> DevOps Enthusiast 
+            Full Stack Developer & AI & ML Enthusiast 
           </motion.h2>
           <motion.p 
             className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-12"
