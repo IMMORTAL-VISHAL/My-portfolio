@@ -10,7 +10,7 @@ const projects = [
     tech: ['MERN Stack', 'WebRTC', 'Stripe','Razopay'],
     links: {
       github: 'https://github.com/IMMORTAL-VISHAL/Foreverc-E-commerec-',
-      live: 'foreverc-frontend-fawn.vercel.app/'
+      live: 'https://foreverc-frontend-fawn.vercel.app/'
     }
   },
   {
