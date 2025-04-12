@@ -12,7 +12,7 @@ const contactLinks = [
   {
     icon: <Linkedin />,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/vishal-pathak',
+    href: 'https://www.linkedin.com/in/mortalvishal/',
     username: 'Vishal Pathak'
   },
   {
