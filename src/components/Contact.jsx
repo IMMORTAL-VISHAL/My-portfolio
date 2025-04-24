@@ -6,7 +6,7 @@ const contactLinks = [
   {
     icon: <Github />,
     label: 'GitHub',
-    href: 'https://github.com/IMMORTAL-VISHAL',
+    href: 'https://github.com/mortalvishal',
     username: 'IMMORTAL-VISHAL'
   },
   {
