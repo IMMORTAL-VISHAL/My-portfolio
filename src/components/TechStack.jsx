@@ -4,11 +4,11 @@ import { Code2, Server, Database, Cloud, Terminal } from 'lucide-react';
 
 const technologies = {
   languages: ['JavaScript', 'Python'],
-  frontend: ['React.js', 'HTML', 'CSS', 'Tailwind', 'Redux', 'RestfulAPI'],
+  frontend: ['React.js', 'HTML', 'CSS', 'Tailwind CSS', 'Redux', 'RestfulAPI'],
   backend: ['Node.js', 'Express.js'],
   databases: ['MongoDB', 'SQL', 'MySql'],
-  devops: ['AWS', 'Docker'],
-  tools: ['Git', 'GitHub', 'LeetCode', 'CodeChef', 'GFG', 'InterviewBit', 'Stackblitz', 'Canva', 'Vercel']
+  devops: ['AWS', 'Docker', 'Github Action', 'CI/CD'],
+  tools: ['Git', 'GitHub', 'LeetCode', 'CodeChef', 'GFG', 'InterviewBit', 'Stackblitz', 'Canva', 'Vercel', 'FIGMA', 'MONGODB Atlas']
 };
 
 const techCategories = [
